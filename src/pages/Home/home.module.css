@@ -1,0 +1,55 @@
+.header {
+  text-align: center;
+  color: black;
+  
+  
+}
+
+.header h1 {
+  padding-top: 4rem;
+  font-size: 2rem;
+}
+
+ .header img {
+  margin: 2rem;
+  width: 20%;
+  height: 20%;
+}
+
+
+.subtitulo {
+  padding: 1rem;
+  font-size: 1.5rem;
+  height: 700px;
+  color: #421e42;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #bbb1bd;
+}
+
+.subtitulo p {
+  width: 100%;
+}
+
+.subtitulo img {
+  margin: 1rem;
+  width: 50vw;
+  height: 60vh;
+}
+  
+.tituloSobre {
+  width: 100%;
+  font-size: 1rem;
+  font-weight: ExtraLight 200;
+  color: black;
+}
+
+.containerSobre{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+}
+

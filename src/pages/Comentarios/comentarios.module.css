@@ -1,0 +1,64 @@
+.header {
+    text-align: center;
+    color: black;
+    background: #BBB1BD;
+    
+}
+
+.header h1 {
+    padding-top: 4rem;
+    font-size: 2rem;
+}
+
+.header img {
+    margin: 2rem;
+    width: 40vw;
+    height: 60vh;
+}
+
+.inputContainer {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 2rem;
+}
+
+.input{
+    background: #BBB1BD;
+    border: 0.5 solid #BBB1BD;
+    padding: 12px 24px;
+    border-radius: 8px;
+    height: 100px;
+    width: 70%;
+}
+
+.addContainer {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.addTask {
+    background: #111;
+    width: 300px;
+    border-radius: 8px;
+    border: 0;
+    color: black;
+    padding: 14px;
+}
+
+.listItems > li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    border-bottom: 0.7px solid #BBB1BD;
+    width: 60%;
+}
+
+.listItems li div p {
+    font-size: 1.3em;
+    color: #111;
+}

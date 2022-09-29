@@ -1,0 +1,78 @@
+.header {
+  text-align: center;
+  color: #421e4a;
+  background: #bbb1bd;  
+  padding: 25px;
+  
+}
+
+.header h1 {
+  padding-top: 4rem;
+  font-size: 2rem;
+}
+
+.header img {
+  margin: 2rem;
+  width: 20%;
+  height: 20%;
+  background: #bbb1bd;
+}
+
+.subtitulo {
+  padding: 1rem;
+  font-size: 1.5rem;
+  height: 50px;
+  color: #421e4a;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content:first baseline;
+  background: #bbb1bd;
+}
+
+
+.card {
+  display: flex;
+  width: 10%;
+  justify-content: space-between;
+  width: 70%;
+  height: 70%;
+}
+
+.cards {
+  flex-direction: column-reverse;
+}
+
+
+ .textoHand{
+  width: 12rem;
+ }
+
+ .imagemCard {
+    max-width: 340px;
+    max-height: 350px;
+    width: auto;
+    height: auto;
+}
+.textos {
+  margin: 2rem;
+}
+
+
+.subtituloFaculdade {
+  color: #421e4a;
+}
+
+.texto {
+  width: 35rem;
+  text-align: center;
+  margin: 2rem;
+}
+
+.subtituloTecnologia {
+  color: #421e4a;
+}
+
+.subtituloHand {
+  color: #421e4a;
+}
