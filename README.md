@@ -5,3 +5,6 @@ Projeto final aulas de React PretaLab
 - Formatar o código
 - Arrumar as imagens
 - Trocar a cor do site
+- Colocar mais informações
+- Inserir certificados e próximos passos
+- Incluir projeto no site.
